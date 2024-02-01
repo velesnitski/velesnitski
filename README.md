@@ -1,5 +1,7 @@
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=velesnitski\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://velesnitski.github.io/)
 
+[![Alex Velesnitski profile views](https://u8views.com/api/v1/github/profiles/6872240/views/day-week-month-total-count.svg)](https://u8views.com/github/velesnitski)
+
 <!--
 **velesnitski/velesnitski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
